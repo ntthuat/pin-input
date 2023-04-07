@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pin-input/static/css/main.2cb943c2.chunk.css",
+    "main.js": "/pin-input/static/js/main.878b5dd0.chunk.js",
+    "main.js.map": "/pin-input/static/js/main.878b5dd0.chunk.js.map",
+    "runtime-main.js": "/pin-input/static/js/runtime-main.1966298e.js",
+    "runtime-main.js.map": "/pin-input/static/js/runtime-main.1966298e.js.map",
+    "static/js/2.b06be9bb.chunk.js": "/pin-input/static/js/2.b06be9bb.chunk.js",
+    "static/js/2.b06be9bb.chunk.js.map": "/pin-input/static/js/2.b06be9bb.chunk.js.map",
+    "static/js/3.d39b5556.chunk.js": "/pin-input/static/js/3.d39b5556.chunk.js",
+    "static/js/3.d39b5556.chunk.js.map": "/pin-input/static/js/3.d39b5556.chunk.js.map",
+    "index.html": "/pin-input/index.html",
+    "static/css/main.2cb943c2.chunk.css.map": "/pin-input/static/css/main.2cb943c2.chunk.css.map",
+    "static/js/2.b06be9bb.chunk.js.LICENSE.txt": "/pin-input/static/js/2.b06be9bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pin-input/static/media/dotsfont.745f3928.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1966298e.js",
+    "static/js/2.b06be9bb.chunk.js",
+    "static/css/main.2cb943c2.chunk.css",
+    "static/js/main.878b5dd0.chunk.js"
+  ]
+}
